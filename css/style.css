@@ -1,0 +1,145 @@
+body{
+  color: #40514E;
+
+  padding-top: 100px;
+  text-align: center;
+  background-color: #e1e5ea
+
+
+}
+h1{
+  font-family: 'Sacramento',cursive;
+  font-size: 50px;
+  color: #39a9cb
+
+
+
+}
+.intro{
+  width: 30%;
+  margin: auto;
+
+}
+h2{
+  color: #39a9cb
+
+}
+.sk{
+  padding-top: 20px;
+  position: relative;
+  top: 30px;
+
+}
+h3{
+  color:  #39a9cb
+
+}
+.cook{
+  margin-left: 53%;
+}
+.para{
+  font-style:italic;
+  border-radius: 20px;
+  border: 50px;
+  color: #39a9cb
+
+}
+.topC{
+position: absolute;
+top: 50px;
+right: 300px;
+
+}
+.bottc{
+
+position: absolute;
+top: auto;
+left: 150px;
+
+}
+.mount{
+  position: relative;
+  bottom: 70px;
+  width: 500px;
+
+}
+.me{
+  position: relative;
+  bottom: 30px;
+}
+.skill-row{
+margin: 100px auto 100px auto;
+text-align: auto;
+
+
+}
+
+.comp{
+  width: 150px;
+margin-left: 280px;
+float: left;
+line-height: 5px;
+
+
+}
+.lang{
+  width: 40%;
+margin: auto;
+}
+.langua{
+  margin-right: 55%;
+}
+.chili{
+
+width: 150px;
+float: right;
+text-align: left;
+margin-right: 315px;
+
+}
+.contact{
+  padding-top: 30px;
+  width: 40%;
+  margin: auto;
+
+}
+.btn{
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat' , sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 7px 13px 7px 13px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+
+}
+.links{
+  padding-top: 30px;
+}
+.footer-link{
+margin: 10px 20px;
+  font-family: 'Montserrat' , sans-serif;
+  color: #39a9cb
+
+}
+footer-link:hover{
+  color: #EAF6F6;
+}
